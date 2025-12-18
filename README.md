@@ -147,3 +147,10 @@ Use este checklist para acompanhar seu progresso durante a implementação da AP
 - [ ] IDs não numéricos retornam 400 Bad Request
 - [ ] IDs decimais são tratados adequadamente
 - [ ] IDs negativos são tratados adequadamente
+
+---
+
+## NestJS starter (boilerplate)
+
+See the original NestJS starter below.
+
